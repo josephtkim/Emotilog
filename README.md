@@ -1,5 +1,5 @@
 # Emotilog
-Speech Recognition app to log the user's current emotion and a journal entry.
+Speech Recognition app to log the user's current emotion and entry into a journal.
 
 Utilizes the iOS Speech API to change speech to text.
 
